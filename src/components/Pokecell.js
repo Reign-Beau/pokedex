@@ -8,6 +8,7 @@ const Pokecell = ({ pokeClass, handleOnClick }) => {
     const style = { backgroundImage: `url(${sprites})`,
         backgroundPosition };
 
+        console.log(handleOnClick, "here")
     return <button onClick={ () => handleOnClick(id) } style={style} className="poke-cell"></button>
 };
 
