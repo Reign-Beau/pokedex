@@ -1,3 +1,6 @@
+Simple Pokedex to explore the fundamentals of React
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
